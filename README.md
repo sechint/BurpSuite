@@ -7,7 +7,7 @@ https://portswigger.net/burp/releases
 
 **Add this to BurpSuitePro.vmoptions file:**
 
-**windowa**:
+**windows**:
 ```
 -XX:MaxRAMPercentage=50
 --add-opens=java.desktop/javax.swing=ALL-UNNAMED
