@@ -5,7 +5,7 @@ Help to install
 
 https://portswigger.net/burp/releases
 
-**Add this to BurpSuitePro.vmoptions file**
+**Add this to BurpSuitePro.vmoptions file:**
 
 **windowa**:
 ```
