@@ -1,10 +1,10 @@
 # BurpSuite
 Help to install 
 
-**Download BurpSuite from : **
+**Download BurpSuite from : **;
 https://portswigger.net/burp/releases
 
-**Add this to BurpSuitePro.vmoptions file**
+**Add this to BurpSuitePro.vmoptions file**;
 **windowa**:
 ```
 -XX:MaxRAMPercentage=50
